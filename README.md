@@ -1,5 +1,5 @@
  <div align="center">
-    <h1> Hi there, I'm Samuel Ashraf🚀<a href="#"></h1>
+    <h1> Hi there, I'm Samuel Zega🚀<a href="#"></h1>
   </div>
 <p align="center">
 <a href="https://github.com/samuelzega"><img src="https://readme-typing-svg.herokuapp.com?lines=NodeJs+And+NestJs+Developer;Senior+Backend+Engineer;AWS+And+Oracle+Cloud+Consultant;MERN+STACK+Developer&center=true&width=500&height=50"></a>
@@ -116,7 +116,7 @@
 </table>
 
 ## Holopin Board
-[![@zeeshan's Holopin board](https://holopin.io/api/user/board?user=zeeshan)](https://holopin.io/@zeeshan)	
+[![@samuel's Holopin board](https://holopin.io/api/user/board?user=zeeshan)](https://holopin.io/@zeeshan)	
 
 |Stats />|Streak />|Languages />
 |---|---|---|
