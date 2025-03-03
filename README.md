@@ -135,7 +135,7 @@
 ## 🚀Github Metrics
 
 <p align="center">
-	<img width="625em" src="https://github.com/samuelzega/samuelzega/blob/main/github-metrics.svg" />
+	will update soon
 </p>
 	
 ## 🐛Github Magic Game
