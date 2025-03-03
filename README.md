@@ -11,15 +11,15 @@
 <br/>
 
 
-### I'm a Backend Heavy Software Engineer and Coding Lunatic!
+### I'm a Software Engineer!
 
-- 🔭 I’m currently working as Senior Backend Engineer at [Dastgyr](https://www.dastgyr.com/).
+- 🔭 I’m currently working as Senior Backend Engineer at [OCBC](https://www.ocbc.com/).
 - 🌱 I’m currently expanding my knowledge in MERN Stack.
 - 👯 I’m looking to collaborate with developers.
 - 💬 Ask me about Android Development or any tech related stuff.
 - 🥅 2022-23 Goals: Contribute more to Open Source projects.
 - 💬 Ask me about Android Development or any tech related stuff.
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He
 - ⚡ Fun fact: I love watching anime.
 - 💎 If you are a Tech person let's get [connected](https://www.linkedin.com/in/samuelzega/).
 
@@ -65,7 +65,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="80">
     </td>
  <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="170">
+        <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" width="170">
     </td>
 	 <td align='center' width="200">
         <img src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg"  width="70">
@@ -82,7 +82,7 @@
         <img src="https://www.logo.wine/a/logo/PostgreSQL/PostgreSQL-Logo.wine.svg">
     </td>
     <td align='center' width="200">
-        <img src="https://camo.githubusercontent.com/2b97405ead6d87cffc71126648f74f034ab9b77525453aaac85ca79248532854/68747470733a2f2f766567696269742e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30352f657870726573736a732e706e67" >
+        <img src="https://daengweb.id/uploads/galeri/2/spring-boot-logo.png" >
     </td>
  <td align='center' width="200">
         <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
