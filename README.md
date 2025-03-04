@@ -1,155 +1,108 @@
- <div align="center">
-    <h1> Hi there, I'm Samuel Zega🚀<a href="#"></h1>
-  </div>
-<p align="center">
-<a href="https://github.com/samuelzega"><img src="https://readme-typing-svg.herokuapp.com?lines=NodeJs+And+NestJs+Developer;Senior+Backend+Engineer;AWS+And+Oracle+Cloud+Consultant;MERN+STACK+Developer&center=true&width=500&height=50"></a>
-  
-
-
-
-<br/>
-<br/>
-
-
-### I'm a Software Engineer!
-
-- 🔭 I’m currently working as Senior Backend Engineer at [OCBC](https://www.ocbc.com/).
-- 🌱 I’m currently expanding my knowledge in MERN Stack.
-- 👯 I’m looking to collaborate with developers.
-- 💬 Ask me about Android Development or any tech related stuff.
-- 🥅 2022-23 Goals: Contribute more to Open Source projects.
-- 💬 Ask me about Android Development or any tech related stuff.
-- 😄 Pronouns: He
-- ⚡ Fun fact: I love watching anime.
-- 💎 If you are a Tech person let's get [connected](https://www.linkedin.com/in/samuelzega/).
-
-## 🤝🏻 &nbsp;Reach Out To  Me
+<div align="center">
+    <h1> Hi there, I'm Samuel Zega 🚀</h1>
+</div>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/samuelzega/"><img src="https://img.shields.io/badge/-Samuel%20Zega-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:samuel.zegaa@gmail.com"><img src="https://img.shields.io/badge/-samuel.zegaa@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<!-- <a href="https://leetcode.com/-/"><img src="https://img.shields.io/badge/-Samuel%20Zega-00000?style=flat&logo=Leetcode&logoColor=yellow"/></a> -->
-<a href="https://instagram.com/samuelzega14/"><img src="https://img.shields.io/badge/-@samuelzega14-1877F2?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://github.com/samuelzega">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Software+Engineer;Backend+%7C+Frontend+%7C+Mobile;AI+%7C+Blockchain+Enthusiast;MERN+Stack+%7C+Java+Spring+Boot;Cloud+%26+Microservices+Expert&center=true&width=600&height=50">
+</a>
 </p>
 
- <h2>Tech Stack</h2>
+---
 
-<table width="80%">
-<tr>
-	<td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
-    </td>
-        <td align='center' width="200">
-        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="90">
-    </td>
-    
+## 👨‍💻 About Me
 
+- 🔭 **Senior Software Engineer** with expertise in **Backend, Frontend, and Mobile Development**.
+- 🏢 Currently working as **Senior Backend Engineer at [OCBC](https://www.ocbc.com/)**.
+- 🌱 Exploring **AI, Machine Learning, Deep Learning, and Blockchain**.
+- 🚀 **Tech Stack:** Java, Spring Boot, Node.js, React, React Native, Microservices, Kafka, AWS, Google Cloud.
+- 👯 Looking to **collaborate** on **AI/ML, blockchain, and large-scale system projects**.
+- 💬 Ask me about **Java, Spring Boot, React, React Native, Cloud, and Scalable Architecture**.
+- 🥅 **2024 Goals:** Deep dive into **AI, Blockchain, and Web3 Development**.
+- 😄 Pronouns: **He/Him**.
+- ⚡ Fun fact: **I love anime & experimenting with new tech stacks**.
+- 💎 If you're into **tech, AI, or Web3**, let's get **[connected](https://www.linkedin.com/in/samuelzega/)**.
 
- <td align='center' width="150">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="100">
-    </td>
- <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="100">
-    </td>
- <td align='center' width="200">
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
-    </td>
- 
-</tr>
- 
-<tr>
-    <td align='center' width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"  width="70">
-    </td>
-    <td align='center' width="200">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="80">
-    </td>
- <td align='center' width="200">
-        <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" width="170">
-    </td>
-	 <td align='center' width="200">
-        <img src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg"  width="70">
-    </td>
-	</td>
-	 <td align='center' width="200">
-        <img src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg"  width="70">
-    </td>
+---
 
-</tr>
- 
-<tr>
-    <td align='center' width="200">
-        <img src="https://www.logo.wine/a/logo/PostgreSQL/PostgreSQL-Logo.wine.svg">
-    </td>
-    <td align='center' width="200">
-        <img src="https://daengweb.id/uploads/galeri/2/spring-boot-logo.png" >
-    </td>
- <td align='center' width="200">
-        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
-    </td>
-  <td align='center' width="200">
-        <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
-    </td>
-    <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" width="100">
-    </td>
-</tr>
-	
-<tr>
-    <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg"  width="90">
-    </td>
-    <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="80">
-    </td>
- <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" width="150">
-    </td>
-     <td align='center' width="200">
-        <img src="https://www.logo.wine/a/logo/Oracle_Cloud_Platform/Oracle_Cloud_Platform-Logo.wine.svg" width="90">
-    </td>
-    <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="90">
-    </td>
-</tr>
-    
-</table>
+## 🤝🏻 Reach Out To Me
 
-## Holopin Board
-[![@samuel's Holopin board](https://holopin.io/api/user/board?user=zeeshan)](https://holopin.io/@zeeshan)	
+<p align="center">
+<a href="https://www.linkedin.com/in/samuelzega/">
+  <img src="https://img.shields.io/badge/-Samuel%20Zega-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
+</a>
+<a href="mailto:samuel.zegaa@gmail.com">
+  <img src="https://img.shields.io/badge/-samuel.zegaa@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
+</a>
+<a href="https://instagram.com/samuelzega14/">
+  <img src="https://img.shields.io/badge/-@samuelzega14-1877F2?style=flat&logo=Instagram&logoColor=white"/>
+</a>
+</p>
 
-|Stats />|Streak />|Languages />
+---
+
+## 🛠 Tech Stack
+
+### **🚀 Backend**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
+
+### **💻 Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### **📱 Mobile Development**
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+### **☁️ Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### **🔬 AI & Blockchain**
+![AI](https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge&logo=google&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=ethereum&logoColor=white)
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=samuelzega&theme=gruvbox&no-bg=true&no-frame=true" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+|Stats />|Streak />|Languages />|
 |---|---|---|
-|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=samuelzega&theme=gruvbox)|[![GitHub Streak](https://streak-stats.demolab.com/?user=samuelzega&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://git.io/streak-stats)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samuelzega&theme=gruvbox)|
+|![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=samuelzega&theme=gruvbox) | [![GitHub Streak](https://streak-stats.demolab.com/?user=samuelzega&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://git.io/streak-stats) | ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samuelzega&theme=gruvbox) |
 
+---
 
-## ⚡️Github Contributions
-	
-<h4 align="center">Isometric view of contributions in the last year</h4>
-<p align="center">
-	<a href="./profile-3d-contrib/profile-night-rainbow.svg">
-		<img width="900em" src="./profile-3d-contrib/profile-night-rainbow.svg">
-	</a>
-</p>
-
-## 🚀Github Metrics
+## ⚡️ GitHub Activity Graph
 
 <p align="center">
-	will update soon
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samuelzega&theme=react-dark&hide_border=true" />
 </p>
-	
-## 🐛Github Magic Game
+
+---
+
+## 🐍 GitHub Snake Game
 
 <p align="center">
-  <img src="https://github.com/samuelzega/samuelzega/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/samuelzega/samuelzega/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
 </p>
-<br>
+
+---
+
+## 🔥 Profile Views Counter
 
 <p align="center"> 
   Views<br>
   <img src="https://profile-counter.glitch.me/samuelzega/count.svg" />
 </p>
-
-
-
-
